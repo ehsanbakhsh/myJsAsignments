@@ -1,0 +1,13 @@
+span{
+    border-left: 2px solid black;
+}
+.myContainer{
+    border-bottom: 1px solid black;
+}
+.myContainer2{
+    border: 1px solid black;
+}
+.myContainer3{
+    min-height: 50px;
+    border: 1px solid black;
+}
